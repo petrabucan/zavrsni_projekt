@@ -1,0 +1,62 @@
+body {
+    background-color: #c3ba9d;
+
+}
+.tekst {
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+h2 {
+    font-weight: bold;
+    text-align: center;
+}
+
+.slike1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+.slike1 img {
+    width: 450px;
+    height: 300px;
+}
+
+.slike2 img{
+    width: 300px;
+    height: 150px;
+}
+
+.slike2 {
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.obojen p{
+    background-color: beige;
+    padding: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+    margin-bottom: 50px;
+}

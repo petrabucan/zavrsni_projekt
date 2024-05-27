@@ -1,0 +1,43 @@
+
+
+.desno, .livo {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+}
+
+.desno img, .livo img {
+    width: 200px;
+    height: 220px;
+    margin: 0 20px;
+}
+
+.desno img {
+    order: 1;
+}
+
+.livo img {
+    order: -1; 
+}
+
+.desno div, .livo div {
+    flex: 1;
+    text-align: left;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+p {
+    margin: 0;
+    font-size: 16px;
+    color: #555;
+}

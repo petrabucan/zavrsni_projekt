@@ -1,0 +1,82 @@
+body {
+    background-color: #c3ba9d;
+}
+
+
+
+.tekst {
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+}
+
+.razmak {
+    margin-bottom: 50px;
+}
+
+.mogucnosti {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+table tr td {
+    padding: 20px;
+}
+
+.App>div {
+    margin-bottom: 100px;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+
+}
+
+h2 {
+    font-weight: bold;
+}
+
+.placanje {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.placanje img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.mogucnosti img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+
+.placanje table tr td {
+    padding: 80px;
+}
+
+.placanje p{
+    text-align: center;
+}
+
+.slike1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.obojen{
+    background-color: beige;
+    padding: 15px;
+}
+
+.slike1 img {
+    width: 450px;
+    height: 300px;
+}
